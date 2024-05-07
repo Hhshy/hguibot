@@ -1,0 +1,27 @@
+[
+  {
+    "propertyKey": "dfk_xpath",
+    "propertyValue": "//h1[text()='待反馈']",
+    "showName": "待反馈"
+  },
+  {
+    "propertyKey": "yjdc_qd_xpath",
+    "propertyValue": "//div[@aria-label='预警导出']//*[contains(text(),'确 定')]",
+    "showName": "预警导出-确定"
+  },
+  {
+    "propertyKey": "yjdc_qx_xpath",
+    "propertyValue": "//div[@aria-label='预警导出']//label[contains(@class,'el-checkbox') and string()='全选']",
+    "showName": "预警导出-全选"
+  },
+  {
+    "propertyKey": "fjdl_xpath",
+    "propertyValue": "//span[text()='辅警登录']",
+    "showName": "辅警登录"
+  },
+  {
+    "propertyKey": "yhkzf_xpath",
+    "propertyValue": "//span[text()='银行卡止付']",
+    "showName": "银行卡止付"
+  }
+]
